@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moises Correa</h1>
-<h3 align="center">Full Stack Software Developer with a background in human resources management. My previous experience in people management has provided me with excellent communication, leadership, teamwork, and organizational skills. In addition, my current experience as a full-stack developer has equipped me that make me an ideal candidate for roles in technology.</h3>
+<h3 align="center">Full Stack Software Developer with a background in human resources management. My previous experience in people management has provided me with excellent communication, leadership, teamwork, and organizational skills. In addition, my current experience as a full-stack developer has equipped me with skills that make me an ideal candidate for roles in technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
